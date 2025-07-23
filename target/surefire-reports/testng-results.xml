@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-23T00:46:39 PKT" name="DirectMacro UK TestCases" finished-at="2025-07-23T00:47:10 PKT" duration-ms="30683">
+    <groups>
+    </groups>
+    <test started-at="2025-07-23T00:46:39 PKT" name="DirectMacro UK Combined TestCases" finished-at="2025-07-23T00:47:10 PKT" duration-ms="30683">
+      <class name="tests.EmploymentSA102Test">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:46:39 PKT" name="setupSuite" finished-at="2025-07-23T00:46:39 PKT" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="setupTestEnvironment()[pri:0, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:46:39 PKT" name="setupTestEnvironment" finished-at="2025-07-23T00:46:43 PKT" duration-ms="4330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTestEnvironment -->
+        <test-method is-config="true" signature="initJson()[pri:0, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:46:43 PKT" name="initJson" finished-at="2025-07-23T00:46:44 PKT" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initJson -->
+        <test-method is-config="true" signature="setupBeforeEachTest()[pri:0, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:46:44 PKT" name="setupBeforeEachTest" finished-at="2025-07-23T00:46:46 PKT" duration-ms="1938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeEachTest -->
+        <test-method is-config="true" signature="setupPages()[pri:0, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:46:46 PKT" name="setupPages" finished-at="2025-07-23T00:46:46 PKT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPages -->
+        <test-method signature="verifyForgotPasswordEmail()[pri:1, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:46:46 PKT" name="verifyForgotPasswordEmail" finished-at="2025-07-23T00:47:08 PKT" duration-ms="22265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordEmail -->
+        <test-method is-config="true" signature="logTestResultsAndCaptureScreenshot(org.testng.ITestResult)[pri:0, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:47:08 PKT" name="logTestResultsAndCaptureScreenshot" finished-at="2025-07-23T00:47:09 PKT" duration-ms="943" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyForgotPasswordEmail status=SUCCESS method=EmploymentSA102Test.verifyForgotPasswordEmail()[pri:1, instance:tests.EmploymentSA102Test@5c6648b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestResultsAndCaptureScreenshot -->
+        <test-method is-config="true" signature="tearDownSession()[pri:0, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:47:09 PKT" name="tearDownSession" finished-at="2025-07-23T00:47:09 PKT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSession -->
+        <test-method is-config="true" signature="teardownTestEnvironment()[pri:0, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:47:09 PKT" name="teardownTestEnvironment" finished-at="2025-07-23T00:47:10 PKT" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTestEnvironment -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:tests.EmploymentSA102Test@5c6648b0]" started-at="2025-07-23T00:47:10 PKT" name="tearDownSuite" finished-at="2025-07-23T00:47:10 PKT" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- tests.EmploymentSA102Test -->
+    </test> <!-- DirectMacro UK Combined TestCases -->
+  </suite> <!-- DirectMacro UK TestCases -->
+</testng-results>
